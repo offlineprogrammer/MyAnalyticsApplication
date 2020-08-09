@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"cognitof5bfaa26": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"myanalyticsapplicati": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
